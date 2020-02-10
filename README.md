@@ -28,7 +28,7 @@ Vue.js server-side version
 Disclaimer
 ---
 
-This is not an offical Vue.js version and it has no straight relation to it and its author.
+This is not an official Vue.js version and it has no straight relation to it and its author.
 
 The module is developed for specific needs of its authors and has some restrictions compared to Vue.js.
 
